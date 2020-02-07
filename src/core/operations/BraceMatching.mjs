@@ -5,7 +5,6 @@
  */
 
 import Operation from "../Operation";
-//import OperationError from "../errors/OperationError";
 
 /**
  * Brace Matching operation
